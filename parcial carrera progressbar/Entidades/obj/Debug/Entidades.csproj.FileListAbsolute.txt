@@ -1,0 +1,6 @@
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2016) RSP LAB II\Entidades\bin\Debug\Entidades.dll
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2016) RSP LAB II\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2016) RSP LAB II\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2016) RSP LAB II\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2016) RSP LAB II\Entidades\obj\Debug\Entidades.dll
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2016) RSP LAB II\Entidades\obj\Debug\Entidades.pdb

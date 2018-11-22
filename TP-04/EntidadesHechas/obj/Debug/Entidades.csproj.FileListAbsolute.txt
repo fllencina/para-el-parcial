@@ -1,0 +1,30 @@
+C:\Users\Fernanda\Desktop\TP-4\EntidadesHechas\bin\Debug\EntidadesHechas.dll.config
+C:\Users\Fernanda\Desktop\TP-4\EntidadesHechas\bin\Debug\EntidadesHechas.dll
+C:\Users\Fernanda\Desktop\TP-4\EntidadesHechas\bin\Debug\EntidadesHechas.pdb
+C:\Users\Fernanda\Desktop\TP-4\EntidadesHechas\bin\Debug\Excepciones.dll
+C:\Users\Fernanda\Desktop\TP-4\EntidadesHechas\bin\Debug\Excepciones.pdb
+C:\Users\Fernanda\Desktop\TP-4\EntidadesHechas\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\TP-4\EntidadesHechas\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\TP-4\EntidadesHechas\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\TP-4\EntidadesHechas\obj\Debug\EntidadesHechas.dll
+C:\Users\Fernanda\Desktop\TP-4\EntidadesHechas\obj\Debug\EntidadesHechas.pdb
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\EntidadesHechas\bin\Debug\EntidadesHechas.dll.config
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\EntidadesHechas\bin\Debug\EntidadesHechas.dll
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\EntidadesHechas\bin\Debug\EntidadesHechas.pdb
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\EntidadesHechas\bin\Debug\Excepciones.dll
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\EntidadesHechas\bin\Debug\Excepciones.pdb
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\EntidadesHechas\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\EntidadesHechas\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\EntidadesHechas\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\EntidadesHechas\obj\Debug\EntidadesHechas.dll
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\EntidadesHechas\obj\Debug\EntidadesHechas.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\EntidadesHechas\bin\Debug\EntidadesHechas.dll.config
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\EntidadesHechas\bin\Debug\EntidadesHechas.dll
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\EntidadesHechas\bin\Debug\EntidadesHechas.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\EntidadesHechas\bin\Debug\Excepciones.dll
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\EntidadesHechas\bin\Debug\Excepciones.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\EntidadesHechas\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\EntidadesHechas\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\EntidadesHechas\obj\Debug\Entidades.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\EntidadesHechas\obj\Debug\EntidadesHechas.dll
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\EntidadesHechas\obj\Debug\EntidadesHechas.pdb

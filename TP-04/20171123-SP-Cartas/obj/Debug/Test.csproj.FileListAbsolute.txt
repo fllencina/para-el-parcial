@@ -1,0 +1,64 @@
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\20171123-SP-Cartas\bin\Debug\20171123-SP-Cartas.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\20171123-SP-Cartas\bin\Debug\20171123-SP-Cartas.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\20171123-SP-Cartas\bin\Debug\20171123-SP-Cartas.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\20171123-SP-Cartas\bin\Debug\EntidadesAlumno.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\20171123-SP-Cartas\bin\Debug\EntidadesHechas.dll
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\20171123-SP-Cartas\bin\Debug\EntidadesAlumno.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\20171123-SP-Cartas\bin\Debug\EntidadesHechas.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\20171123-SP-Cartas\obj\Debug\Test.csprojResolveAssemblyReference.cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\20171123-SP-Cartas\obj\Debug\_20171123_SP_Cartas.FrmPpal.resources
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\20171123-SP-Cartas\obj\Debug\_20171123_SP_Cartas.Properties.Resources.resources
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\20171123-SP-Cartas\obj\Debug\Test.csproj.GenerateResource.Cache
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\20171123-SP-Cartas\obj\Debug\20171123-SP-Cartas.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas\20171123-SP-Cartas\obj\Debug\20171123-SP-Cartas.pdb
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas - alumno\20171123-SP-Cartas\bin\Debug\20171123-SP-Cartas.exe.config
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas - alumno\20171123-SP-Cartas\obj\Debug\20171123-SP-Cartas.exe
+D:\Federico\VB .Net\Visual C#\utn\Examenes\20171123-SP-Cartas - alumno\20171123-SP-Cartas\obj\Debug\20171123-SP-Cartas.pdb
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\bin\Debug\20171123-SP-Cartas.exe.config
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\bin\Debug\20171123-SP-Cartas.exe
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\bin\Debug\20171123-SP-Cartas.pdb
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\bin\Debug\EntidadesHechas.dll
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\bin\Debug\Excepciones.dll
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\bin\Debug\EntidadesHechas.pdb
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\bin\Debug\EntidadesHechas.dll.config
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\bin\Debug\Excepciones.pdb
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\obj\Debug\_20171123_SP_Cartas.FrmPpal.resources
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\obj\Debug\_20171123_SP_Cartas.Properties.Resources.resources
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\obj\Debug\20171123-SP-Cartas.exe
+C:\Users\Fernanda\Desktop\TP-4\20171123-SP-Cartas\obj\Debug\20171123-SP-Cartas.pdb
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\bin\Debug\20171123-SP-Cartas.exe.config
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\bin\Debug\20171123-SP-Cartas.exe
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\bin\Debug\20171123-SP-Cartas.pdb
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\bin\Debug\EntidadesHechas.dll
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\bin\Debug\Excepciones.dll
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\bin\Debug\EntidadesHechas.pdb
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\bin\Debug\EntidadesHechas.dll.config
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\bin\Debug\Excepciones.pdb
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\obj\Debug\_20171123_SP_Cartas.FrmPpal.resources
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\obj\Debug\_20171123_SP_Cartas.Properties.Resources.resources
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\obj\Debug\20171123-SP-Cartas.exe
+C:\Users\Fernanda\Desktop\git hoy\prog-y-lab-II\TP-4\20171123-SP-Cartas\obj\Debug\20171123-SP-Cartas.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\bin\Debug\20171123-SP-Cartas.exe.config
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\bin\Debug\20171123-SP-Cartas.exe
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\bin\Debug\20171123-SP-Cartas.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\bin\Debug\EntidadesHechas.dll
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\bin\Debug\Excepciones.dll
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\bin\Debug\EntidadesHechas.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\bin\Debug\EntidadesHechas.dll.config
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\bin\Debug\Excepciones.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\obj\Debug\_20171123_SP_Cartas.FrmPpal.resources
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\obj\Debug\_20171123_SP_Cartas.Properties.Resources.resources
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\obj\Debug\Test.csproj.GenerateResource.cache
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\obj\Debug\Test.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\obj\Debug\20171123-SP-Cartas.exe
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\TP-04\20171123-SP-Cartas\obj\Debug\20171123-SP-Cartas.pdb

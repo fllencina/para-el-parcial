@@ -1,0 +1,27 @@
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\TestUnitarios.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\TestUnitarios.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Archivos.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Clases Abstractas.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Excepciones.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Lencina.Fernanda.2C.TP3.exe
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Archivos.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Clases Abstractas.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Excepciones.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Lencina.Fernanda.2C.TP3.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\TestUnitarios\obj\Debug\TestUnitarios.pdb

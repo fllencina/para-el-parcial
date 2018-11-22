@@ -1,0 +1,12 @@
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\Archivos\bin\Debug\Archivos.dll
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\Archivos\obj\Debug\Archivos.dll
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\Archivos\obj\Debug\Archivos.pdb
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Archivos\bin\Debug\Archivos.dll
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Archivos\bin\Debug\Archivos.pdb
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Archivos\obj\Debug\Archivos.dll
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Archivos\obj\Debug\Archivos.pdb

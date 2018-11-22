@@ -1,0 +1,20 @@
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\Clases Abstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\obj\Debug\Clases Abstractas.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\bin\Debug\Clases Abstractas.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\bin\Debug\Clases Abstractas.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\bin\Debug\Excepciones.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\obj\Debug\EntidadesAbstractas.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\obj\Debug\Clases Abstractas.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesAbstractas\obj\Debug\Clases Abstractas.pdb

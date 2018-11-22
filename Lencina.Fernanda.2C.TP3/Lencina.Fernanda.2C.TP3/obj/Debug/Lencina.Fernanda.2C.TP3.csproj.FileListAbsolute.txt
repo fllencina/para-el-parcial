@@ -1,0 +1,47 @@
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Mi Git actual\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.csproj.CoreCompileInputs.cache
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Lencina.Fernanda.2C.TP3.exe
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Lencina.Fernanda.2C.TP3.pdb
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Archivos.dll
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Clases Abstractas.dll
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\EntidadesInstanciables.dll
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Excepciones.dll
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Archivos.pdb
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Clases Abstractas.pdb
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\EntidadesInstanciables.pdb
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Excepciones.pdb
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.csprojAssemblyReference.cache
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.csproj.CoreCompileInputs.cache
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.csproj.CopyComplete
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.exe
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Lencina.Fernanda.2C.TP3.exe
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Lencina.Fernanda.2C.TP3.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Archivos.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Clases Abstractas.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Excepciones.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Archivos.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Clases Abstractas.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Excepciones.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.exe
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Lencina.Fernanda.2C.TP3.exe
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Lencina.Fernanda.2C.TP3.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Archivos.dll
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Clases Abstractas.dll
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Excepciones.dll
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Archivos.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Clases Abstractas.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\bin\Debug\Excepciones.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.exe
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\obj\Debug\Lencina.Fernanda.2C.TP3.pdb

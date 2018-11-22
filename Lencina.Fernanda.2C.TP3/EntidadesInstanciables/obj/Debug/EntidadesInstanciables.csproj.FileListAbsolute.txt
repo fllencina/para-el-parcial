@@ -1,0 +1,39 @@
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Clases Abstractas.dll
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Clases Abstractas.pdb
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+D:\VisualStudio\fernanda\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+C:\Users\Fernanda\Desktop\prog-y-lab-II\Lencina.Fernanda.2C.TP3\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.dll
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\EntidadesInstanciables.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.dll
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Clases Abstractas.dll
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.dll
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Archivos.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Clases Abstractas.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\bin\Debug\Excepciones.pdb
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.dll
+C:\Users\Fernanda\Desktop\-tp_laboratorio_2\Lencina.Fernanda.2C.TP3\EntidadesInstanciables\obj\Debug\EntidadesInstanciables.pdb

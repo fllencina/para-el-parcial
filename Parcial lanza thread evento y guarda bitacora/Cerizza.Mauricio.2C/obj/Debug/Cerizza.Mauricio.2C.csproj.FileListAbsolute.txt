@@ -1,0 +1,15 @@
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\bin\Debug\Cerizza.Mauricio.2C.exe.config
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\bin\Debug\Cerizza.Mauricio.2C.exe
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\bin\Debug\Cerizza.Mauricio.2C.pdb
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\bin\Debug\Entidades.dll
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\bin\Debug\Interfaces.dll
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\bin\Debug\Entidades.pdb
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\bin\Debug\Interfaces.pdb
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\obj\Debug\Cerizza.Mauricio.2C.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\obj\Debug\Cerizza.Mauricio._2C.frmPpal.resources
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\obj\Debug\Cerizza.Mauricio._2C.Properties.Resources.resources
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\obj\Debug\Cerizza.Mauricio.2C.csproj.GenerateResource.cache
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\obj\Debug\Cerizza.Mauricio.2C.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\obj\Debug\Cerizza.Mauricio.2C.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\obj\Debug\Cerizza.Mauricio.2C.exe
+C:\Users\Fernanda\Desktop\Prog y Lab 2 Federico Davila\Git ayudante Mauricio\Programacion_02-master\Ejercicios\Modelos de Examenes\(2017) RSP LAB II\Cerizza.Mauricio.2C\obj\Debug\Cerizza.Mauricio.2C.pdb
