@@ -1,0 +1,9 @@
+C:\Users\Fernanda\Desktop\20181122-SP\Alumno\Archivos\bin\Debug\Archivos.dll
+C:\Users\Fernanda\Desktop\20181122-SP\Alumno\Archivos\bin\Debug\Archivos.pdb
+C:\Users\Fernanda\Desktop\20181122-SP\Alumno\Archivos\bin\Debug\Entidades.dll
+C:\Users\Fernanda\Desktop\20181122-SP\Alumno\Archivos\bin\Debug\Entidades.pdb
+C:\Users\Fernanda\Desktop\20181122-SP\Alumno\Archivos\obj\Debug\Archivos.csprojAssemblyReference.cache
+C:\Users\Fernanda\Desktop\20181122-SP\Alumno\Archivos\obj\Debug\Archivos.csproj.CoreCompileInputs.cache
+C:\Users\Fernanda\Desktop\20181122-SP\Alumno\Archivos\obj\Debug\Archivos.csproj.CopyComplete
+C:\Users\Fernanda\Desktop\20181122-SP\Alumno\Archivos\obj\Debug\Archivos.dll
+C:\Users\Fernanda\Desktop\20181122-SP\Alumno\Archivos\obj\Debug\Archivos.pdb
