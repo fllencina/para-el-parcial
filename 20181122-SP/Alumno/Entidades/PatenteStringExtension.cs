@@ -28,16 +28,16 @@ namespace Entidades
             throw null;
         }
      */
-     static class PatenteStringExtension
+     public static class PatenteStringExtension
     {
         public const string patente_vieja = "^[A-Z]{3}[0-9]{3}$";
         public const string patente_mercosur = "^[A-Z]{2}[0-9]{3}[A-Z]{2}$";
 
-        static Patente ValidarPatente(this string str)
+        public static Patente ValidarPatente(this string str)
         {
             Regex rgx_v = new Regex(PatenteStringExtension.patente_vieja);
             Regex rgx_n = new Regex(PatenteStringExtension.patente_mercosur);
-            Patente p= default(Patente);
+            Patente p;
 
             if (rgx_v.IsMatch(str))
             {

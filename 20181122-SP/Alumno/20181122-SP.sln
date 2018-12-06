@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VistaPatentes", "VistaPaten
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Archivos", "Archivos\Archivos.csproj", "{F3FA12DB-4D22-4921-AB68-C97723DC20F3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestUnitario", "TestUnitario\TestUnitario.csproj", "{8D4FC354-A52C-470A-BD7F-13E239D76DE7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F3FA12DB-4D22-4921-AB68-C97723DC20F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3FA12DB-4D22-4921-AB68-C97723DC20F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3FA12DB-4D22-4921-AB68-C97723DC20F3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D4FC354-A52C-470A-BD7F-13E239D76DE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D4FC354-A52C-470A-BD7F-13E239D76DE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D4FC354-A52C-470A-BD7F-13E239D76DE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D4FC354-A52C-470A-BD7F-13E239D76DE7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

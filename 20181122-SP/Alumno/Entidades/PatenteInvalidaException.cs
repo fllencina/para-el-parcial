@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Entidades
 {
-    class PatenteInvalidaException: Exception
+    public class PatenteInvalidaException: Exception
     {
         public PatenteInvalidaException(string mensaje):base(mensaje,null)
         { }

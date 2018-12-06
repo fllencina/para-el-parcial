@@ -19,7 +19,10 @@ namespace Archivos
         {
             comando = new SqlCommand();
             comando.CommandType = CommandType.Text;
-            string str = @"Data source=.\sqlexpress; initial catalog=patentes-sp-2018;integrated security=true";
+            //string str = @"Data source=.\sqlexpress; initial catalog=patentes-sp-2018;integrated security=true";
+            // string str = "Server=fernanda\alpha2000;Database=patentes-sp-2018;User Id=sintiaw;Password = alpha2000; ";
+            string str = @"Data source=fernanda\alpha2000; initial catalog=patentes-sp-2018;integrated security=true";
+
             conexion = new SqlConnection(str);
 
         }
@@ -63,21 +66,10 @@ namespace Archivos
                 SqlDataReader reader = comando.ExecuteReader();
                 while (reader.Read())
                 {
-                    string codPatente = reader["patente"].ToString();
-                    string tipoPatente = reader["tipo"].ToString();
-                    Patente p=default(Patente);
-                    if (tipoPatente == "Mercosur")
-                    {
-                        p = new Patente(codPatente, Patente.Tipo.Mercosur);           
-                    }
-                    if (tipoPatente == "Vieja")
-                    {
-                        p = new Patente(codPatente, Patente.Tipo.Vieja);
-                    }
-                    if (p != default(Patente))
-                    {
-                        datos.Enqueue(p);
-                    }
+                    string codPatente = reader["patente"].ToString();             
+                    Patente p;
+                    p = PatenteStringExtension.ValidarPatente(codPatente);
+                    datos.Enqueue(p);  
                 }
             }
             catch (Exception ex)

@@ -33,3 +33,16 @@ C:\Users\Fernanda\Desktop\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatent
 C:\Users\Fernanda\Desktop\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.CopyComplete
 C:\Users\Fernanda\Desktop\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.dll
 C:\Users\Fernanda\Desktop\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.pdb
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial\20181122-SP\Alumno\VistaPatentes\bin\Debug\VistaPatentes.dll.config
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial\20181122-SP\Alumno\VistaPatentes\bin\Debug\VistaPatentes.dll
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial\20181122-SP\Alumno\VistaPatentes\bin\Debug\VistaPatentes.pdb
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial\20181122-SP\Alumno\VistaPatentes\bin\Debug\Entidades.dll
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial\20181122-SP\Alumno\VistaPatentes\bin\Debug\Entidades.pdb
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csprojAssemblyReference.cache
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.Properties.Resources.resources
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial\20181122-SP\Alumno\VistaPatentes\obj\Debug\Patentes.VistaPatente.resources
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.GenerateResource.cache
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.CoreCompileInputs.cache
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.csproj.CopyComplete
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.dll
+C:\Users\fernanda\Desktop\Lab y prog\para-el-parcial\20181122-SP\Alumno\VistaPatentes\obj\Debug\VistaPatentes.pdb

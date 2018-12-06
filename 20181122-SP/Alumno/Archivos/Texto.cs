@@ -29,8 +29,16 @@ namespace Archivos
             while(sr.ReadLine()!=null)
             {
                 leido = sr.ReadLine();
-                Patente p = new Patente(leido, default (Patente.Tipo));
-                datos.Enqueue(p);
+                Patente p;
+                try
+                {
+                    p=PatenteStringExtension.ValidarPatente(leido);
+                    datos.Enqueue(p);
+                }
+                catch(PatenteInvalidaException ex)
+                {
+                    continue;
+                }
             }   
             sr.Close();
         }
